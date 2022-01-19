@@ -9,7 +9,18 @@ var students = [
         day: 10
       },
       Career: "IDYGS"
-    }
+    },
+    {
+        lname: "Brondon",
+        name: "Eduordo",
+        age: 21.3,
+        birthday: {
+          year: 2002,
+          month: "October",
+          day: 19
+        },
+        Career: "IDYGS"
+      }
   ]
   
   var table = document.getElementsByTagName("table")[0];
