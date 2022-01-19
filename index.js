@@ -9,6 +9,17 @@ var students = [
         day: 10
       },
       Career: "IDYGS"
+    },
+    {
+      lname: "Brandon",
+      name: "Cortes",
+      age: 21,
+      birthday: {
+        year: 2000,
+        month: "July",
+        day: 06
+      },
+      Career: "IDYGS"
     }
   ]
   
